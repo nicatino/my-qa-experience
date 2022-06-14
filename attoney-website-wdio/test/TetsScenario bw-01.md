@@ -3,7 +3,7 @@
 #### Description: Black-Boxing of one of our products
 
 ##### Prerequisites: 
-- Chrome Browser (version: 102.0.5005.115 or higher);
+- Chrome Browser (version: 102.0.5005.115);
 - Windows 10 home (version: 21H2
 package: 19044.1706);
 
